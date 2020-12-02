@@ -18,7 +18,7 @@ Amazon.co.jpアカウントとAlexa開発者アカウントの作成について
 :::message alert
 特にここ！
 
-![](img/001.png)
+![](https://raw.githubusercontent.com/VFJUG/zenn.dev-docs/main/books/voiceflow-tutorial-jp-00/img/001.png)
 
 開発者アカウントの「作成」・・・と思って、「Amazon Developerアカウントを作成」をクリックすると**ハマります**のでご注意ください！
 
