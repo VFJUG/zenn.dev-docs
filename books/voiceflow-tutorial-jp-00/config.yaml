@@ -1,0 +1,9 @@
+title: "Voiceflow日本語チュートリアル 第0回: アカウントの作成"
+summary: "Voiceflowを使ったノンコーディングではじめるVUIアプリ開発の日本語チュートリアルシリーズです。\n\n第0回はAlexaスキル開発向け「アカウントの作成」です。"
+topics: ["初心者", "alexa", "voiceflow", "vui"] # トピック（5つまで）
+published: false # falseだと下書き
+price: 0 # 有料の場合200〜5000
+chapters:
+  - chapter01
+  - chapter02
+  - chapter03
